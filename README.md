@@ -1,1 +1,1 @@
-the html behind [oqbrady.io](https://bqbrady.io)
+the html behind [oqbrady.com](https://oqbrady.com)
